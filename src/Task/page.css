@@ -115,7 +115,7 @@ h1 {
 .task-text{
     align-content:flex-start !important ;
     text-align: left !important;
-    height: 40px;
+    height: 40px;  
     border-radius: 10px;
     border: none;
     color: black;

@@ -80,7 +80,7 @@ const Task = () => {
                                 <button className="remove-btn" onClick={() => removeTask(task.id)}>
                                 <RiDeleteBinLine />
                                 </button>
-                            </li>
+                            </li>  
                         ))}
                     </ul>
                 ) : (
